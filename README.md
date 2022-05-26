@@ -42,6 +42,8 @@ For developing the web application, we have used “Flask” package, which is b
 
 application framework.
 
+Run in Ubunutu
+
 Naives Bayes has been used for classifying on the basis of positive and negative sentiment(sentence). 
 
 
